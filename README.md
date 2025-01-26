@@ -8,10 +8,25 @@
 ---
 
 ## 🗒️ Table of content
-1. [Overview](#-Overview)
-2. [Project Structure](#-Project-Structure)
-3. [Prerequirments](#-Prerequirments)
-4. 
+1. [📚 Overview](#-overview)
+2. [📂 Project Structure](#-project-structure)
+3. [🛠️ Prerequisites](#-prerequisites)
+4. [✨ Key Features](#-key-features)
+5. [🛠️ Installation](#-installation)
+6. [📊 Dataset Preparation](#-dataset-preparation)
+7. [🧠 Model Architecture](#-model-architecture)
+8. [🚀 Training](#-training)
+9. [🪄 Usage](#-usage)
+    - [Training the Model](#training-the-model)
+    - [Predicting with the Model](#predicting-with-the-model)
+10. [📈 Performance Metrics](#-performance-metrics)
+11. [💾 Model Saving](#-model-saving)
+12. [🛠️ Customization](#-customization)
+13. [⚠️ Limitations](#️-limitations)
+14. [📈 Future Improvements](#-future-improvements)
+15. [🤝 Contributions](#-contributions)
+16. [📜 License](#-license)
+17. [📧 Contact](#-contact)
 
 ---
 
