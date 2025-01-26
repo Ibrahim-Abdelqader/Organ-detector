@@ -8,9 +8,9 @@
 ---
 
 ## 🗒️ Table of content
-1. [Ovedsfrview](#-Overview)
+1. [Overview](#-Overview)
 2. [Project Structure](#-Project-Structure)
-3. [Prerequirments](#prerequirments)
+3. [Prerequirments](#-prerequirments)
 
 ---
 
