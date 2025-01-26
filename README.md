@@ -1,4 +1,5 @@
 # Organ detector
+
 <img src="https://github.com/user-attachments/assets/7870dabe-12a9-4896-9712-3e97f96665d8" height="320" width="400"/>
 <img src="https://github.com/user-attachments/assets/d80f31bf-30d4-4f79-8e91-e5cc4eece2dc" width="400" />
 <img src="https://github.com/user-attachments/assets/8d6e6220-d7a7-46e5-a96a-1c6410f2da3c" height="400" width="400"/>
@@ -10,27 +11,32 @@ This project implements a deep learning Convolutional Neural Network (CNN) to cl
 ---
 
 ## 🗒️ Table of content
-1. [📂 Project Structure](#-project-structure)
-2. [🛠️ Prerequisites](#-prerequisites)
-3. [✨ Key Features](#-key-features)
-4. [🛠️ Installation](#-installation)
-5. [📊 Dataset Preparation](#-dataset-preparation)
-6. [🧠 Model Architecture](#-model-architecture)
-7. [🚀 Training](#-training)
-8. [🪄 Usage](#-usage)
+1. [📽️ Video](#-Video)
+2. [📂 Project Structure](#-project-structure)
+3. [🛠️ Prerequisites](#-prerequisites)
+4. [✨ Key Features](#-key-features)
+5. [🛠️ Installation](#-installation)
+6. [📊 Dataset Preparation](#-dataset-preparation)
+7. [🧠 Model Architecture](#-model-architecture)
+8. [🚀 Training](#-training)
+9. [🪄 Usage](#-usage)
     - [Training the Model](#training-the-model)
     - [Predicting with the Model](#predicting-with-the-model)
-9. [📈 Performance Metrics](#-performance-metrics)
-10. [💾 Model Saving](#-model-saving)
-11. [🛠️ Customization](#-customization)
-12. [⚠️ Limitations](#️-limitations)
-13. [📈 Future Improvements](#-future-improvements)
-14. [🤝 Contributions](#-contributions)
-15. [📜 License](#-license)
-16. [📧 Contact](#-contact)
+10. [📈 Performance Metrics](#-performance-metrics)
+11. [💾 Model Saving](#-model-saving)
+12. [🛠️ Customization](#-customization)
+13. [⚠️ Limitations](#️-limitations)
+14. [📈 Future Improvements](#-future-improvements)
+15. [🤝 Contributions](#-contributions)
+16. [📜 License](#-license)
+17. [📧 Contact](#-contact)
 
 ---
 
+## 📽️ Video
+https://github.com/user-attachments/assets/9bad4944-375d-4681-96f8-1f644bd2db2d
+
+---
 ## 📂 Project Structure
 ```
 project_root/
