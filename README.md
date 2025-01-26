@@ -8,7 +8,8 @@
 ---
 
 ## 🗒️ Table of content
-1. [Overview](#Overviews)
+1. [Overview](#Overview)
+2. [Project Structure](#-Project-Structure)
 
 ---
 
