@@ -36,7 +36,7 @@ project_root/
 └── logs/
 ```
 
-## 🛠️ prerequirments
+## 🛠️ Prerequirments
 - Python 3.8+
 - TensorFlow
 - Numpy
