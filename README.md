@@ -10,7 +10,7 @@
 ## 🗒️ Table of content
 1. [Overview](#-Overview)
 2. [Project Structure](#-Project-Structure)
-3. [Prerequirments](#--Prerequirments)
+3. [Prerequirments](#-🛠️-Prerequirments)
 
 ---
 
